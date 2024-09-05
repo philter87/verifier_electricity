@@ -25,7 +25,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\..\src\ProjectOrigin.Electricity\ProjectOrigin.Electricity.csproj" />
-    <PackageReference Include="ProjectOrigin.TestCommon" Version="1.0.0-rc.5" />
+    <PackageReference Include="ProjectOrigin.TestCommon" Version="1.0.0-rc.6" />
   </ItemGroup>
 
   <ItemGroup>
